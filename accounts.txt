@@ -1,6 +1,1 @@
-Given I open chrome browser
-And I visit the application
-And I enter username
-And I enter password
-And I click the login button
-Then I am logged in
+hello, today we are learning command line
